@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "patient-booking": "apps/patient-booking",
+    "patient-booking-e2e": "apps/patient-booking-e2e"
+  }
+}
